@@ -18,16 +18,18 @@ StudentGrade/
     └── main/
         └── scala/
             └── StudentGrade.scala
-
-How to Run
-
+```
+## How to Run
+```
 Open Ubuntu Terminal and run:
 
 cd ~/StudentGrade
 sbt run
 
 The project will compile and execute the StudentGrade Scala program.
-
+```
+## Output
+```
 ====================================
         STUDENT GRADE
      Student Grade Processor
@@ -81,6 +83,6 @@ Aman -> Marks: 85 -> Grade: B
 Rahul -> Marks: 72 -> Grade: C
 Priya -> Marks: 91 -> Grade: A
 
-====================================
+====================================    
        STUDENT GRADE COMPLETE
 ====================================
