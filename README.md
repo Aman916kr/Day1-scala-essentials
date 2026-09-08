@@ -1,28 +1,16 @@
-StudentGrade
+# StudentGrade
 
 A beginner-friendly Scala project that demonstrates Scala Essentials by building a simple Student Grade Processor.
 
-Technologies Used
-Scala 2.12.18
-SBT 1.11.7
-Ubuntu Linux
-Concepts Covered
-val
-var
-lazy val
-Immutable Collections
-List
-Vector
-Set
-Map
-for-comprehension
-yield
-Trait
-Logger
-map
-foreach
-Student Grade Processing
-Project Structure
+## Technologies Used
+
+- Scala 2.12.18
+- SBT 1.11.7
+- Ubuntu Linux
+
+## Project Structure
+
+```text
 StudentGrade/
 ├── build.sbt
 ├── README.md
@@ -30,13 +18,16 @@ StudentGrade/
     └── main/
         └── scala/
             └── StudentGrade.scala
+
 How to Run
 
 Open Ubuntu Terminal and run:
 
 cd ~/StudentGrade
 sbt run
-Output
+
+The project will compile and execute the StudentGrade Scala program.
+
 ====================================
         STUDENT GRADE
      Student Grade Processor
